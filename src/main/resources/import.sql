@@ -1,0 +1,1 @@
+INSERT INTO encrypted (user_Document , credit_Card_Token , amount) VALUES ('6KZuvFswI8FtP5V5kxZMQ20USgTqhk8sHuOAGGVv+KBVxdEW6QShyJet' , 'iLUYAdZrERjxNRAxKZFxN4pZ5xK9V0qzH5aNgFCARPbqXQgm6S5TCXwEZMp5r7s=' , 5555);
